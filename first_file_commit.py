@@ -3,3 +3,6 @@
 #This is our code for the first file in python commit 
 
 print ("I love Git")
+
+#Thhis is a change to our code 
+print("I love merging  and branching")
